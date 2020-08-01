@@ -1,0 +1,20 @@
+.Homepage-title h1 {
+	font-size: 75px;
+	font-weight: 600;
+}
+
+.Homepage-title p {
+	color: #F39237; /* Deep Saffron */
+	font-family: 'Source Code Pro', monospace;
+	font-size: 35px;
+}
+
+.Homepage-graphic {
+	position: relative;
+	z-index: 1;
+}
+
+.Homepage-graphic img {
+	max-width: 100%;
+	height: auto;
+}

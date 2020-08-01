@@ -1,0 +1,28 @@
+#Footer {
+	height: 200px;
+	background: #595959; /* Davys Grey */
+}
+
+.Footer-link-container {
+	width: 65px;
+	height: 55px;
+}
+
+.Footer-link-container i {
+	color: #F39237; /* Deep Saffron */
+	font-size: 45px;
+}
+
+.Footer-link-container a:hover i {
+	font-size: 50px;
+}
+
+.Footer-vertical-border, .Footer-horizontal-border {
+	border-color: #F39237; /* Deep Saffron */
+	background: #F39237; /* Deep Saffron */
+}
+
+.contact-info-icon {
+	color: #F39237; /* Deep Saffron */
+}
+
