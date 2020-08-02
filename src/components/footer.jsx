@@ -14,7 +14,7 @@ class Footer extends Component {
 							<a href="https://www.linkedin.com/in/aaron-palas-646511126/"><i class="fab fa-linkedin"></i></a>
 						</div>
 						<div className="Footer-link-container d-flex justify-content-center align-items-center">
-							<a href="/My Resume.docx.pdf"><i class="far fa-file"></i></a>
+							<a href="/my-portfolio/My Resume.docx.pdf"><i class="far fa-file"></i></a>
 						</div>
 					</div>
 					<div className="Footer-horizontal-border w-75 my-3 border rounded"></div>
