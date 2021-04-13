@@ -9,7 +9,7 @@ class Homepage extends Component {
 				<div className="row w-100">
 					<div className="Homepage-title col-6 pl-5 d-flex flex-column justify-content-center">
 						<h1 className="text-left">Aaron Palas</h1>
-						<p className="text-left">Web Developer</p>
+						<p className="text-left"></p>
 					</div>
 					<div className="Homepage-graphic col-6"><img src={Maingraphic} alt="Main Graphic" /></div>
 				</div>

@@ -8,10 +8,13 @@ class Aboutpage extends Component {
 				<div className="Aboutpage-description container min-vw-80 min-vh-25 my-5 border rounded">
 					<h3 className="my-1">Hello! My name is <span class="Aboutpage-highlight">Aaron</span>.</h3>
 					<p>
-						I'm 26 years old and currently living in California. I graduated with a Bachelors degree in Computer Science and am now looking for opportunities in Web Development.
+						I'm 27 years old and currently living in California. I graduated with a Bachelors degree in Computer Science and I currently work in Application Support.
 						<br></br>
 						<br></br>
-						Out of all the fields I studied in school, the topics in web technologies would always grab my attention the most. Now I have found my passion in building full-stack web applications. 
+						Out of all the fields I studied in school, the topics in web technologies would always grab my attention the most. Now I enjoy building full-stack web applications on my spare time!
+						<br></br>
+						<br></br>
+						I also love to watch movies, play video games, and spend time with my dog Alie.
 					</p>
 				</div>
 				<div className="Aboutpage-content container">
@@ -38,7 +41,7 @@ class Aboutpage extends Component {
 								<h5 className="card-title">IWIL - I'll Watch It Later</h5>
 								<p className="card-text">A web application that utilizes web api to retrieve movie details and whether they are availble on streaming and/or web store plaforms. Successful searches can be selected and saved to a watchlist if desired.</p>
 								  <p className="card-text">Stack: JavaScript / Node.js / Express / MongoDB</p>
-								<p className="card-text">Date: June 2020</p>
+								<p className="card-text">Date: May 2020</p>
 							</div>
 						</div>
 					  </div>

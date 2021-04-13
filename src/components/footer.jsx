@@ -23,7 +23,7 @@ class Footer extends Component {
 							<div className="contact-info-icon d-flex align-items-center mr-2">
 								<i class="fas fa-thumbtack"></i>
 							</div>
-							<p className="mb-0">Long Beach, California</p>
+							<p className="mb-0">Sacramento, California</p>
 						</div>
 						<div className="d-flex justify-content-center col-sm-12 col-md-4">
 							<div className="contact-info-icon d-flex align-items-center mr-2">
