@@ -7,12 +7,12 @@ class Navbar extends Component {
 			<nav className="navbar navbar-expand-lg fixed-top">
 				<div id="navbar-header" className="h-100 d-flex align-items-center">
 					<div className="mr-2 d-flex align-items-center">
-						<i class="fas fa-laptop-code"></i>
+						<i className="fas fa-laptop-code"></i>
 					</div>
 					<a className="navbar-brand m-0 p-0" href="#Homepage">Aaron Palas</a>
 				</div>
 				<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-				<i class="fas fa-bars"></i>
+				<i className="fas fa-bars"></i>
 				</button>
 
 				<div className="collapse navbar-collapse" id="navbarSupportedContent">

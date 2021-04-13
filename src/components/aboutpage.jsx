@@ -6,7 +6,7 @@ class Aboutpage extends Component {
 		return (
 			<div id="Aboutpage" className="min-vh-100 d-flex flex-column justify-content-center align-items-center">
 				<div className="Aboutpage-description container min-vw-80 min-vh-25 my-5 border rounded">
-					<h3 className="my-1">Hello! My name is <span class="Aboutpage-highlight">Aaron</span>.</h3>
+					<h3 className="my-1">Hello! My name is <span className="Aboutpage-highlight">Aaron</span>.</h3>
 					<p>
 						I'm 27 years old and currently living in California. I graduated with a Bachelors degree in Computer Science and I currently work in Application Support.
 						<br></br>
@@ -23,16 +23,16 @@ class Aboutpage extends Component {
 					  <div className="row no-gutters">
 						<div className="col-sm-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
 							<div className="d-flex justify-content-center align-items-center">
-								<h5 className="card-main-header card-title mb-0"><i class="fas fa-film"></i> IWIL</h5>
+								<h5 className="card-main-header card-title mb-0"><i className="fas fa-film"></i> IWIL</h5>
 							</div>
 							<div className="card-link-containe py-0 d-flex align-items-center">
-								<div class="card-link-container-website h-100 d-flex justify-content-center align-items-center">
-									<a href="https://iwil.herokuapp.com/" class="card-link-website card-link">Go to Website</a>
+								<div className="card-link-container-website h-100 d-flex justify-content-center align-items-center">
+									<a href="https://iwil.herokuapp.com/" className="card-link-website card-link">Go to Website</a>
 								</div>
 								<div className="Aboutpage-vertical-border mx-3 border rounded">
 								</div>
-								<div class="card-link-container-github h-100 d-flex justify-content-center align-items-center">
-									<a href="https://github.com/adpalas/iwil" class="card-link-github card-link align-middle"><i class="fab fa-github"></i></a>
+								<div className="card-link-container-github h-100 d-flex justify-content-center align-items-center">
+									<a href="https://github.com/adpalas/iwil" className="card-link-github card-link align-middle"><i className="fab fa-github"></i></a>
 								</div>
 							</div>
 						</div>
